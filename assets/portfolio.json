@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Creating Python Snake Game",
+        "description": "Covered Python variables, loops, functions, classes and turtle module",
+        "video": "assets/lesson1.mp4",
+        "animation": "assets/snake.json"
+    },
+    {
+        "title": "Python Snake Game Syntax",
+        "description": "Created 3 different classes: Snake, Food, and Scoreboard, making the code more organized and efficient",
+        "video": "assets/lesson1-code.mp4",
+        "animation": "assets/snake2.json"
+    },
+    {
+        "title": "PostgreSQL - SQL Syntax and Databases",
+        "description": "Analyzed data using different functions and commands, answered business queries",
+        "video": "assets/lesson2.mp4",
+        "animation": "assets/SQL.json"
+    },
+    {
+        "title": "Creating Volunteer Leave Tracker",
+        "description": "Used formulas to create an automated system that helps track volunteers’ off days, their usage patterns, and work schedules, making the process more efficient and organized.",
+        "video": "assets/lesson3.mp4",
+        "animation": "assets/Excel.json"
+    }
+]
